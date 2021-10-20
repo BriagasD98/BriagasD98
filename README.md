@@ -6,4 +6,4 @@
 
 :mailbox: **Email** me at [briagasdavid@yahoo.com](mailto:briagasdavid@yahoo.com)
 
-
+![developer_thoughts](https://user-images.githubusercontent.com/83102464/138035967-9dca4c79-b504-4ff3-8a63-bd19305cd7d9.gif)
