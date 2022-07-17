@@ -6,4 +6,6 @@
 
 :mailbox: **Email** me at [briagasdavid@yahoo.com](mailto:briagasdavid@yahoo.com)
 
+:page_facing_up: Check out my **React Portfolio** <a href="http://briagasd98.github.io/react-portfolio-v2" target="_blank"> HERE </a>
+
 <h1 align="center"><img src="https://user-images.githubusercontent.com/83102464/138035967-9dca4c79-b504-4ff3-8a63-bd19305cd7d9.gif" width="400px"></h1>
